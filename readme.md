@@ -30,4 +30,4 @@ http://localhost:8000/
 
 
 ..\vendor\bin\phalcon.bat model users
-TODO : chaeck ERROR: Table "users" does not exist. 
+https://docs.phalcon.io/4.0/en/db-models
