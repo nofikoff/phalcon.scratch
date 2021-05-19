@@ -1,0 +1,6 @@
+# IntelliJ project files
+.idea
+vendor
+my_project/.phalcon
+my_project/catch
+my_project/app/config/
